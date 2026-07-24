@@ -1,5 +1,9 @@
 # Prompt Evaluator
 
+## Try the Live App
+
+[Open Prompt Evaluator](https://brooke-prompt-evaluator.streamlit.app/)
+
 *A human-centered tool for evaluating prompts before they are submitted to an AI system.*
 
 ## Purpose
